@@ -19,5 +19,5 @@
 5. Design practices: Avoid race conditions with sigsuspend() and modularize code
 
 ## Improvements To Make
-1. Make the dynamic array a linked list to make adding and removing quicker
+1. Make the dynamic array a linked list to make adding and removing more efficient
 2. Organize the include statements
